@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.mp4
+*.avi
+*.zip
+*.tar
+*.gz
+*.h5
+*.onnx
+*.ckpt
+*.tflite
+dataset/
+extracted_frames/
+logs/

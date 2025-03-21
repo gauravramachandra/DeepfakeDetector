@@ -1,0 +1,25 @@
+# Ignore virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore dataset and model files if they are large
+data/
+models/
+*.h5
+*.onnx
+*.pth
+*.pkl
+
+# Ignore logs and caches
+logs/
+cache/
+.DS_Store
+
+# Ignore local files
+*.mp4
+*.avi
+*.png
+*.jpg
+*.jpeg

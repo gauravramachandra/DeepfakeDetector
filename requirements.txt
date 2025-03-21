@@ -1,0 +1,13 @@
+numpy
+opencv-python
+scipy
+matplotlib
+tensorflow
+keras
+scikit-learn
+flask
+streamlit
+requests
+dlib
+face_recognition
+mediapipe
